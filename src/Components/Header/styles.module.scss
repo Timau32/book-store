@@ -1,0 +1,23 @@
+.logo {
+  color: #fff;
+  font-size: 30px;
+}
+
+.icon {
+  position: relative;
+  cursor: pointer;
+}
+
+.iconAlert {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: red;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  text-align: center;
+}
